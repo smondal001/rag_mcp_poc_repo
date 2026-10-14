@@ -1,0 +1,35 @@
+[
+    {
+        "system_name": "HR System",
+        "system_description": "Human Resources System on a SaaS platform",
+        "business_steward_email": "business_hr@example.com",
+        "business_steward_full_name": "John HR Doe",
+        "security_steward_email": "security_hr@example.com",
+        "security_steward_full_name": "Jane HR Doe",
+        "technical_steward_email": "technical_hr@example.com",
+        "technical_steward_full_name": "Techno HR Doe",
+        "system_id": 9811
+    },
+    {
+        "system_name": "IT Help Desk",
+        "system_description": "Ticketing System on a SaaS platform",
+        "business_steward_email": "business_helpdesk@example.com",
+        "business_steward_full_name": "John Helpdesk Doe",
+        "security_steward_email": "security_helpdesk@example.com",
+        "security_steward_full_name": "Jane helpdesk Doe",
+        "technical_steward_email": "technical_helpdesk@example.com",
+        "technical_steward_full_name": "Techno helpdesk Doe",
+        "system_id": 3621
+    },
+    {
+        "system_name": "CRM System",
+        "system_description": "Customer Engagement System on Salesforce platform",
+        "business_steward_email": "business_crm@example.com",
+        "business_steward_full_name": "Jane CRM Doe",
+        "security_steward_email": "security_crm@example.com",
+        "security_steward_full_name": "John CRM Doe",
+        "technical_steward_email": "tech_crm@example.com",
+        "technical_steward_full_name": "Techno CRM Doe ",
+        "system_id": 858
+    }
+]

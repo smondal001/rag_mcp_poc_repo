@@ -1,0 +1,30 @@
+# Backend dependencies (agent + systems-catalog API + MCP server)
+# Verified against imports in agent_RAG_MCP.py and main.py
+
+# FastAPI app & server
+fastapi
+uvicorn
+
+# Pydantic (backend/main.py uses EmailStr -> requires pydantic[email])
+pydantic[email]
+
+# MCP server (backend/main.py: FastApiMCP)
+fastapi-mcp
+
+# MCP client (backend/agent_RAG_MCP.py: MultiServerMCPClient)
+langchain-mcp-adapters
+
+# LangChain agent + RAG pipeline
+langchain
+langchain-community
+langchain-core
+langchain-openai
+
+# Vector DB (backend/agent_RAG_MCP.py: FAISS)
+faiss-cpu
+
+# PDF loading (backend/agent_RAG_MCP.py: PyPDFLoader)
+pypdf
+
+# .env loading (backend/agent_RAG_MCP.py: load_dotenv)
+python-dotenv

@@ -1,0 +1,27 @@
+#question = 
+What is the capital of Argentina?
+
+#question = 
+What is the 401k match and when does it vest?
+
+#question = 
+
+I need to get approval from business owner to start the work on system upgrade. Where can I find system and stakeholder details?
+
+question = 
+I need to send communication regarding a planned system outage. What are the steps to follow? 
+
+question = 
+Who is my business contact for the HR System? 
+
+question = 
+How many systems do we have in enterprise catalog?
+
+question =
+Can you grab the details for system 858?
+
+question = 
+Can you get me the names and emails of the contacts for HR System? 
+
+question = 
+Can you get me the names and emails of the contacts for HR System in a tabular format? 
